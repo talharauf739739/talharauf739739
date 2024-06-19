@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Engr. Talha Rauf</h1>
 <h3 align="center">Professional Data Scientist | Enthusiastic AI_ML Engr</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/OyH3.gif">
+<img align="right" alt="coding" width="400" src="[https://i.gifer.com/OyH3.gif](https://gifer.com/en/OyH3)">
 
 - 🌱 I’m currently learning **Advance GenAI, LMLOPS**
 
