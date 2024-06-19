@@ -1,4 +1,4 @@
-![logo](https://github.com/talharauf739739/talharauf739739/blob/main/GitHub_Banner.jpg)
+![logo](https://github.com/talharauf739739/talharauf739739/blob/main/github_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Engr. Talha Rauf</h1>
 <h3 align="center">Professional Data Scientist | Enthusiastic AI_ML Engr</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
